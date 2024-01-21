@@ -1,5 +1,4 @@
 # Electrum - Lightweight Bitcoin client
-
 ```
 Licence: MIT Licence
 Author: Thomas Voegtlin
